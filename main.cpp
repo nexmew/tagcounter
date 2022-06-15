@@ -23,6 +23,5 @@ int main() {
     cout << counter << endl;
     cout << endl;
 
-
     return 0;
 }
